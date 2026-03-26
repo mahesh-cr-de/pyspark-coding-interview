@@ -12,7 +12,7 @@ This repository contains real-world PySpark interview questions with:
 
 ## 📌 Playlist
 
-🎥 YouTube Playlist: 
+🎥 YouTube Playlist: https://www.youtube.com/watch?v=l4ofCDEbwWA&list=PLfcT77Db42y3SEVXxoZMahx56kujOJgv3
 
 ---
 
