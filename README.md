@@ -20,8 +20,8 @@ This repository contains real-world PySpark interview questions with:
 
 | # | Question | Link |
 |--|---------|------|
-| 1 | distinct vs dropDuplicates | [Code](src/deduplication.py) |
-| 2 | Second Highest Salary per Department | [Code](src/second_highest_salary.py) |
+| 1 | distinct vs dropDuplicates | [Notebook](PySpark_Basics.ipynb) |
+| 2 | Second Highest Salary per Department | [Notebook](PySpark_Second_highest_salary.ipynb) |
 | 4 | Handle Corrupt Records in Spark (PERMISSIVE, DROPMALFORMED, FAILFAST, badRecordsPath) | [Notebook](Q4_Handle_Corrupt_Records_in_Spark.ipynb) |
 
 ---
