@@ -22,6 +22,7 @@ This repository contains real-world PySpark interview questions with:
 |--|---------|------|
 | 1 | distinct vs dropDuplicates | [Code](src/deduplication.py) |
 | 2 | Second Highest Salary per Department | [Code](src/second_highest_salary.py) |
+| 4 | Handle Corrupt Records in Spark (PERMISSIVE, DROPMALFORMED, FAILFAST, badRecordsPath) | [Notebook](Q4_Handle_Corrupt_Records_in_Spark.ipynb) |
 
 ---
 
@@ -31,6 +32,7 @@ This repository contains real-world PySpark interview questions with:
 - Performance Optimization
 - Data Skew Handling
 - Joins & Aggregations
+- Data Quality & Corrupt Record Handling
 - Real-world Scenarios
 
 ---
